@@ -6,7 +6,7 @@ This project is a contract-based proof of concept developed for **Mulltiply**, d
 The web app allows users to log in with Facebook, input multiple phone numbers, select a message template, customize it, and send messages seamlessly. It’s designed for businesses looking to enhance their communication strategies.
 
 ## Features
-- **Facebook Authentication**: Secure user login using \`next-auth\`.
+- **Facebook Authentication**: Secure user login using `next-auth`.
 - **Multi-Number Input**: Easily add and manage multiple phone numbers.
 - **Template Selection**: Choose from a list of pre-defined templates.
 - **Variable Customization**: Edit variables in the message for personalization.
@@ -48,7 +48,7 @@ The web app allows users to log in with Facebook, input multiple phone numbers, 
 
 ### Configuration
 1. Setup next-auth for facebook login using custom facebook app [[Documentation](https://next-auth.js.org/providers/facebook)]
-2. Set up environment variables in a \`.env\` file:
+2. Set up environment variables in a `.env` file:
   ```plaintext
   FACEBOOK_CLIENT_ID=your-facebook-client-id
   FACEBOOK_CLIENT_SECRET=your-facebook-client-secret
