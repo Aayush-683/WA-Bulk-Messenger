@@ -28,7 +28,7 @@ The web app allows users to log in with Facebook, input multiple phone numbers, 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/Aayush-683/WA-Bulk-Messenger
    ```
 2. Navigate to the project directory:
    ```bash
